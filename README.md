@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving the use of the '>' operator. The initial query incorrectly excludes salaries equal to the specified threshold. The corrected query uses '>=' to include salaries greater than or equal to the threshold.
